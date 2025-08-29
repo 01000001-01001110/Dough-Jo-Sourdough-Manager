@@ -63,10 +63,10 @@ If you encounter a bug or have a feature request, please create an issue with:
 ### Common Questions
 
 **Q: Why can't I sync my data across devices?**
-A: Dough Jo keeps all data local for privacy. Use the CSV export feature to transfer data between devices.
+A: Dough Jo keeps all data local for privacy. Use the CSV export feature to transfer data between devices. I am working on this feature now.
 
 **Q: How do I backup my starter data?**
-A: Go to Settings → Export Data to create a CSV file of all your starters and feeding history.
+A: Go to Settings → Export Data to create a CSV file of all your starters and feeding history. I am working on this feature now.
 
 **Q: The feeding calculator seems wrong. What should I do?**
 A: Please report this with your starter weight, desired hydration, and flour type so we can investigate.
@@ -114,7 +114,7 @@ For urgent issues or account-specific problems:
 ## 📄 License & Legal
 
 ### Privacy Policy
-Your privacy is paramount. Read our complete privacy policy at [privacy policy URL].
+Your privacy is paramount. Read our complete privacy policy at [[privacy policy](https://raw.githubusercontent.com/01000001-01001110/Dough-Jo-Sourdough-Manager/refs/heads/main/docs/privacy-policy.md).
 
 ### Terms of Use
 By using Dough Jo, you agree that:
@@ -128,10 +128,10 @@ By using Dough Jo, you agree that:
 
 ---
 
-## 🍞 Happy Baking!
+## 🍞 Thank you, and Happy Baking!
 
 Dough Jo is made by bakers, for bakers. We believe great bread comes from great tools, not great surveillance. Enjoy your sourdough journey with complete privacy and precision!
 
-**App Store**: [Link to App Store when published]  
+**App Store**: [Dough Jo Sourdough Manager]](https://apps.apple.com/us/app/dough-jo-sourdough-manager/id6751474388?uo=2)  
 **Version**: 1.0  
 **Price**: $2.99 (one-time purchase, no subscriptions)
