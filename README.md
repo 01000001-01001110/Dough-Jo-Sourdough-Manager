@@ -114,7 +114,7 @@ For urgent issues or account-specific problems:
 ## 📄 License & Legal
 
 ### Privacy Policy
-Your privacy is paramount. Read our complete privacy policy at [[privacy policy](https://raw.githubusercontent.com/01000001-01001110/Dough-Jo-Sourdough-Manager/refs/heads/main/docs/privacy-policy.md).
+Your privacy is paramount. Read our complete privacy policy at [privacy policy](https://raw.githubusercontent.com/01000001-01001110/Dough-Jo-Sourdough-Manager/refs/heads/main/docs/privacy-policy.md).
 
 ### Terms of Use
 By using Dough Jo, you agree that:
@@ -132,6 +132,6 @@ By using Dough Jo, you agree that:
 
 Dough Jo is made by bakers, for bakers. We believe great bread comes from great tools, not great surveillance. Enjoy your sourdough journey with complete privacy and precision!
 
-**App Store**: [Dough Jo Sourdough Manager]](https://apps.apple.com/us/app/dough-jo-sourdough-manager/id6751474388?uo=2)  
+**App Store**: [Dough Jo Sourdough Manager](https://apps.apple.com/us/app/dough-jo-sourdough-manager/id6751474388?uo=2)  
 **Version**: 1.0  
 **Price**: $2.99 (one-time purchase, no subscriptions)
